@@ -1,3 +1,3 @@
 FROM centos
 MAINTAINER siva
-RUN apt update
+RUN apt-get update
